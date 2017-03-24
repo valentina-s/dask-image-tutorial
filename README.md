@@ -4,7 +4,7 @@ This repository contains materials for a short introduction to image processing 
 
 #### Prerequisites
 
-The materials are tested under Python 3 and dask 0.13.0. If you have a recent installation of Anaconda Python, you are most probaly good to go! If not, make sure the dask package is installed
+The materials are tested under Python 3 and dask 0.13.0. If you have a recent installation of Anaconda Python, you are most probably good to go! If not, make sure the dask package is installed
 
 ```
   pip install dask
